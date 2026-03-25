@@ -1,7 +1,17 @@
 [
   {
     "day": "Понеділок",
-    "lessons": [
+    "lessonsDist": [
+      { "name": "1. Захист України (Дист)", "emoji": "DU" },
+      { "name": "2. Захист України (Дист)", "emoji": "DU" },
+      { "name": "3. Захист України (Дист)", "emoji": "DU" },
+      { "name": "4. Захист України (Дист)", "emoji": "DU" },
+      { "name": "5. Захист України (Дист)", "emoji": "DU" },
+      { "name": "6. Захист України (Дист)", "emoji": "DU" },
+      { "name": "7. Захист України (Дист)", "emoji": "DU" },
+      { "name": "8. Захист України (Дист)", "emoji": "DU" }
+    ],
+    "lessonsMix": [
       { "name": "1. Захист України", "emoji": "DU" },
       { "name": "2. Захист України", "emoji": "DU" },
       { "name": "3. Захист України", "emoji": "DU" },
@@ -14,7 +24,16 @@
   },
   {
     "day": "Вівторок",
-    "lessons": [
+    "lessonsDist": [
+      { "name": "1. Українська мова (Дист)", "emoji": "UaLang" },
+      { "name": "2. Українська література (Дист)", "emoji": "UaLiterature" },
+      { "name": "3. Алгебра (Дист)", "emoji": "Algebra" },
+      { "name": "4. Англійська мова (Дист)", "emoji": "EngLang" },
+      { "name": "5. Фізична культура (Дист)", "emoji": "PE" },
+      { "name": "6. Фізика (Дист)", "emoji": "Physics" },
+      { "name": "7. Інформатика (Дист)", "emoji": "IT" }
+    ],
+    "lessonsMix": [
       { "name": "1. Українська мова", "emoji": "UaLang" },
       { "name": "2. Українська література", "emoji": "UaLiterature" },
       { "name": "3. Алгебра", "emoji": "Algebra" },
@@ -26,7 +45,17 @@
   },
   {
     "day": "Середа",
-    "lessons": [
+    "lessonsDist": [
+      { "name": "1. Англійська мова (Дист)", "emoji": "EngLang" },
+      { "name": "2. Громадянська освіта (Дист)", "emoji": "CE" },
+      { "name": "3. Зарубіжна література (Дист)", "emoji": "WorldLiterature" },
+      { "name": "4. Історія України (Дист)", "emoji": "UaHistory" },
+      { "name": "5. Біологія (Дист)", "emoji": "Biology" },
+      { "name": "6. Українська мова (Дист)", "emoji": "UaLang" },
+      { "name": "7. Українська мова (Дист)", "emoji": "UaLang" },
+      { "name": "8. Фізична культура (Дист)", "emoji": "PE" }
+    ],
+    "lessonsMix": [
       { "name": "1. Англійська мова", "emoji": "EngLang" },
       { "name": "2. Громадянська освіта", "emoji": "CE" },
       { "name": "3. Зарубіжна література", "emoji": "WorldLiterature" },
@@ -39,7 +68,16 @@
   },
   {
     "day": "Четвер",
-    "lessons": [
+    "lessonsDist": [
+      { "name": "1. Фізична культура (Дист)", "emoji": "PE" },
+      { "name": "2. Українська література (Дист)", "emoji": "UaLiterature" },
+      { "name": "3. Геометрія (Дист)", "emoji": "Geometry" },
+      { "name": "4. Інформатика (Дист)", "emoji": "IT" },
+      { "name": "5. Історія України (Дист)", "emoji": "UaHistory" },
+      { "name": "6. Алгебра (Дист)", "emoji": "Algebra" },
+      { "name": "7. Всесвітня історія (Дист)", "emoji": "WorldHistory" }
+    ],
+    "lessonsMix": [
       { "name": "1. Фізична культура", "emoji": "PE" },
       { "name": "2. Українська література", "emoji": "UaLiterature" },
       { "name": "3. Геометрія", "emoji": "Geometry" },
@@ -51,7 +89,16 @@
   },
   {
     "day": "П'ятниця",
-    "lessons": [
+    "lessonsDist": [
+      { "name": "1. Біологія (Дист)", "emoji": "Biology" },
+      { "name": "2. Геометрія (Дист)", "emoji": "Geometry" },
+      { "name": "3. Англійська мова (Дист)", "emoji": "EngLang" },
+      { "name": "4. Українська мова (Дист)", "emoji": "UaLang" },
+      { "name": "5. Фізика (Дист)", "emoji": "Physics" },
+      { "name": "6. Фізика (Дист)", "emoji": "Physics" },
+      { "name": "7. Громадянська освіта (Дист)", "emoji": "CE" }
+    ],
+    "lessonsMix": [
       { "name": "1. Біологія", "emoji": "Biology" },
       { "name": "2. Геометрія", "emoji": "Geometry" },
       { "name": "3. Англійська мова", "emoji": "EngLang" },
