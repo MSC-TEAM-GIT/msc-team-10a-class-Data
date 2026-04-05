@@ -21,7 +21,7 @@
       { "name": "Українська література", "type": "АСИНХРОННО", "emoji": "UaLiterature", "time": "09:10" },
       { "name": "Фізика", "type": "АСИНХРОННО", "emoji": "Physics", "time": "10:15" },
       { "name": "Перехід", "type": "ПЕРЕХІД", "emoji": "Transition", "time": "11:10" },
-      { "name": "Математика", "type": "ОЧНО О 12:05", "emoji": "Algebra", "time": "12:05" },
+      { "name": "Алгебра", "type": "ОЧНО О 12:05", "emoji": "Algebra", "time": "12:05" },
       {
         "name": "Англійська мова",
         "emoji": "EngLang",
@@ -66,7 +66,7 @@
       { "name": "-----", "type": "-----", "emoji": "Cancel", "time": "10:15" },
       { "name": "Перехід", "type": "ПЕРЕХІД", "emoji": "Transition", "time": "11:10" },
       { "name": "Історія України", "type": "ОЧНО О 12:05", "emoji": "UaHistory", "time": "12:05" },
-      { "name": "Математика", "type": "ОЧНО О 13:10", "emoji": "Algebra", "time": "13:10" },
+      { "name": "Геометрія", "type": "ОЧНО О 13:10", "emoji": "Geometry", "time": "13:10" },
       { "name": "Громадянська освіта", "type": "ОЧНО О 14:05", "emoji": "CE", "time": "14:05" },
       {
         "name": "Інформатика",
@@ -84,7 +84,7 @@
     "lessons": [
       { "name": "Ранкова зустріч", "type": "АСИНХРОННО", "emoji": "ClassTeacher", "time": "08:00" },
       { "name": "Біологія", "type": "АСИНХРОННО", "emoji": "Biology", "time": "08:15" },
-      { "name": "Математика", "type": "АСИНХРОННО", "emoji": "Algebra", "time": "09:10" },
+      { "name": "Алгебра", "type": "АСИНХРОННО", "emoji": "Algebra", "time": "09:10" },
       {
         "name": "Англійська мова",
         "emoji": "EngLang",
@@ -97,7 +97,7 @@
       { "name": "Перехід", "type": "ПЕРЕХІД", "emoji": "Transition", "time": "11:10" },
       { "name": "Фізика", "type": "ОЧНО О 12:05", "emoji": "Physics", "time": "12:05" },
       { "name": "Фізика", "type": "ОЧНО О 13:10", "emoji": "Physics", "time": "13:10" },
-      { "name": "Математика", "type": "ОЧНО О 14:05", "emoji": "Algebra", "time": "14:05" }
+      { "name": "Геометрія", "type": "ОЧНО О 14:05", "emoji": "Geometry", "time": "14:05" }
     ]
   }
 ]
