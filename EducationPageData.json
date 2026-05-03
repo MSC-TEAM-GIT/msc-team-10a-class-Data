@@ -49,15 +49,7 @@
         ]
       },
       { "name": "Громадянська освіта", "type": "АСИНХРОННО", "emoji": "CE", "time": "09:10" },
-      {
-        "name": "Зарубіжна література",
-        "emoji": "WorldLiterature",
-        "time": "10:15",
-        "groups": [
-          { "name": "1 група", "type": "СИНХРОННО О 10:15", "emoji": "WorldLiterature" },
-          { "name": "2 група", "type": "СИНХРОННО О 10:15", "emoji": "WorldLiterature" }
-        ]
-      },
+      { "name": "Зарубіжна література", "type": "СИНХРОННО О 10:15", "emoji": "WorldLiterature", "time": "10:15" },
       { "name": "Перехід", "type": "ПЕРЕХІД", "emoji": "Transition", "time": "11:10" },
       { "name": "Біологія", "type": "ОЧНО О 12:05", "emoji": "Biology", "time": "12:05" },
       { "name": "Українська мова", "type": "ОЧНО О 13:10", "emoji": "UaLang", "time": "13:10" },
