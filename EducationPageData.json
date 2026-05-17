@@ -48,7 +48,7 @@
           { "name": "Англійська мова (2 група)", "type": "СИНХРОННО О 08:15", "emoji": "EngLang" }
         ]
       },
-      { "name": "Громадянська освіта", "type": "СИНХРОННО О 09:10", "emoji": "CE", "time": "09:10" },
+      { "name": "Громадянська освіта", "type": "АСИНХРОННО", "emoji": "CE", "time": "09:10" },
       { "name": "Зарубіжна література", "type": "СИНХРОННО О 10:15", "emoji": "WorldLiterature", "time": "10:15" },
       { "name": "Перехід", "type": "ПЕРЕХІД", "emoji": "Transition", "time": "11:10" },
       { "name": "Біологія", "type": "ОЧНО О 12:05", "emoji": "Biology", "time": "12:05" },
@@ -84,7 +84,7 @@
     "lessons": [
       { "name": "Ранкова зустріч", "type": "АСИНХРОННО", "emoji": "ClassTeacher", "time": "08:00" },
       { "name": "Біологія", "type": "АСИНХРОННО", "emoji": "Biology", "time": "08:15" },
-      { "name": "Алгебра", "type": "АСИНХРОННО", "emoji": "Algebra", "time": "09:10" },
+      { "name": "Алгебра", "type": "СИНХРОННО О 09:10", "emoji": "Algebra", "time": "09:10" },
       {
         "name": "Англійська мова",
         "emoji": "EngLang",
