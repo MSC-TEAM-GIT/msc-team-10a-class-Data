@@ -21,7 +21,7 @@
       { "name": "Українська література", "type": "АСИНХРОННО", "emoji": "UaLiterature", "time": "09:10" },
       { "name": "Фізика", "type": "АСИНХРОННО", "emoji": "Physics", "time": "10:15" },
       { "name": "Перехід", "type": "ПЕРЕХІД", "emoji": "Transition", "time": "11:10" },
-      { "name": "Алгебра", "type": "ОЧНО О 12:05", "emoji": "Algebra", "time": "12:05" },
+      { "name": "-----", "type": "-----", "emoji": "Cancel", "time": "12:05" },
       {
         "name": "Англійська мова",
         "emoji": "EngLang",
